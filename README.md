@@ -2,7 +2,7 @@
 
 ## 🐾 About Acha Patas
 
-The Acha Patas website complements the "Acha Patas" Flutter mobile app, showcasing its features and potentially offering web functionalities for pet finding and connecting pet lovers. Built with Next.js and pnpm, this project ensures a fast, scalable, and efficient web experience.
+The Acha Patas website complements the "Acha Patas" Flutter mobile app, showcasing its features and potentially offering web functionalities for pet finding and connecting pet lovers. Built with Next.js and pnpm.
 
 ## 🚀 Technologies Used
 - Next.js 15: React framework for SSR/SSG.
